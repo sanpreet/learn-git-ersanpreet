@@ -1,0 +1,4 @@
+file to demonstrate how to use .gitignore file when you donot want anyone to pull any file that is not needed
+
+
+--------new changes are added to this file--------
