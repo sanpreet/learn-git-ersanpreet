@@ -1,0 +1,2 @@
+Hi this file to demonstrate .gitignore
+# the second experiment
